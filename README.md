@@ -1,16 +1,30 @@
-### Hi there 👋
+# 👋 Hi there, I'm yuzu!
+I'm a programmer in University of Electro Comunitations⚡️
 
-<!--
-**Yz4230/Yz4230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🍳Skills and Tools
+![](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![](https://img.shields.io/badge/-git-F05032?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-vscode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/-IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white)
+![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=white)
+![](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![](https://img.shields.io/badge/-Google_Could-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
