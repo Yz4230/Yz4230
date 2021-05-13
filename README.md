@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm yuzu!
-I'm a programmer in University of Electro Comunitations⚡️
+I'm a programmer in University of Electro-Comunitations⚡️
 
 ## 🍳Skills and Tools
 ![](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -28,3 +28,8 @@ I'm a programmer in University of Electro Comunitations⚡️
 ![](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+## 📚Currently learning
+![](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
