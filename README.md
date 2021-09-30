@@ -34,3 +34,6 @@ I'm a programmer in University of Electro-Comunitations⚡️
 ![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/-Google_Could-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
+![](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
+![](https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=babel&logoColor=white)
+![](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white)
