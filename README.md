@@ -7,9 +7,9 @@ I'm a programmer in University of Electro-Comunitations⚡️
 ### Languages
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 ### Frameworks
 
@@ -22,6 +22,7 @@ I'm a programmer in University of Electro-Comunitations⚡️
 ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ### Backend
 
@@ -38,7 +39,6 @@ I'm a programmer in University of Electro-Comunitations⚡️
 ![git](https://img.shields.io/badge/-git-F05032?style=flat&logo=git&logoColor=white)
 ![vscode](https://img.shields.io/badge/-vscode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![IDEA](https://img.shields.io/badge/-IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ## ✏️Currently learning
 
